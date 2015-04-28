@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="page2">Hello world! page2</string>
+    <string name="page3">Hello world! page3</string>
+    <string name="action_settings">Settings</string>
+</resources>
